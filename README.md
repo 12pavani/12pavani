@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Pavani<br><br>🌱 I’m currently learning : React.js<br><br>📫 How to reach me : email(vislavathpavani5123@gmail.com)<br><br>
+Bonjour 👋, I'm Pavani<br><br>🌱 I’m currently learning : React.js<br><br>📫 How to reach me : email(vislavathpavani5123@gmail.com)<br><br>
 
 
 ## 🌐 Socials:
