@@ -1,8 +1,8 @@
 # 🌟 Meet Pavani
-Hello, I'm **Vislavath Pavani**! 👋  
-A dedicated **Information Technology** student at NIT Srinagar, I specialize in **Full-Stack Web Development** using **FastAPI**. My journey in tech is driven by a passion for innovation and a thirst for knowledge, especially as I explore the realms of **Machine Learning** and **Full-Stack Development**. 🌟
+Hello, I'm Vislavath Pavani! 👋
+I am a dedicated Information Technology student at NIT Srinagar, specializing in Full-Stack Web Development with a focus on FastAPI. My journey in technology is fueled by a commitment to innovation and a desire to expand my knowledge, particularly in Machine Learning and Full-Stack Development. 🌟
 
-I invite you to explore my work to see the innovations I’ve created! 💡
+I encourage you to explore my work to discover the innovations I have contributed! 💡
 
 ![Desk Setup Animation](https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif)
 
