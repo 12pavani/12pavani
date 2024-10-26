@@ -2,7 +2,7 @@
 Hello, I'm **Vislavath Pavani**! 👋  
 A dedicated **Information Technology** student at NIT Srinagar, I specialize in **Full-Stack Web Development** using **FastAPI**. My journey in tech is driven by a passion for innovation and a thirst for knowledge, especially as I explore the realms of **Machine Learning** and **Full-Stack Development**. 🌟
 
-With a solid foundation in **C++** and **Python**, I've successfully developed projects like a comprehensive **Inventory Management Application** and a **Heart Disease Prediction Model**. I thrive on solving complex problems and transforming ideas into impactful solutions. 💡
+I invite you to explore my work to see the innovations I’ve created! 💡
 
 ![Desk Setup Animation](https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif)
 
