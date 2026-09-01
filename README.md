@@ -22,7 +22,7 @@ I'm excited to bring my technical skills and enthusiasm for automation to your t
 
 ## 🌐 Socials:
 
-[![Instagram](https://www.instagram.com/pvn._official?utm_source=qr&igsi=Y295a3E5MzB4ZHBj)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pvn._official/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavani-vislavath-208798237)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/12pavani)
 
