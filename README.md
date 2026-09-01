@@ -1,4 +1,4 @@
-# 🌟 Meet Pavani
+<img width="720" height="1065" alt="image" src="https://github.com/user-attachments/assets/4bff4fbd-ad1b-449e-8c85-134a77b15b19" /># 🌟 Meet Pavani
 
 Hello, I'm Vislavath Pavani! 👋
 
@@ -22,7 +22,7 @@ I'm excited to bring my technical skills and enthusiasm for automation to your t
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/i.am_dramaqueen)
+[![Instagram](https://www.instagram.com/pvn._official?utm_source=qr&igsi=Y295a3E5MzB4ZHBj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavani-vislavath-208798237)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/12pavani)
 
