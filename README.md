@@ -6,7 +6,9 @@ I am a **DevOps Engineer at Sutherland**, specializing in **Jenkins CI/CD pipeli
 
 I encourage you to explore my work to discover the pipelines and projects I've built! 💡
 
-<img src="https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif" width="300">
+<p align="center">
+  <img src="https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif" width="300">
+</p>
 
 In my free time, I enjoy learning about new tech trends and experimenting with CI/CD and automation projects. I value teamwork and actively seek opportunities to connect with like-minded individuals in the tech community.
 
