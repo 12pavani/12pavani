@@ -2,7 +2,7 @@
 Hello, I'm Vislavath Pavani! 👋
 I am a DevOps Engineer at Sutherland, specializing in Jenkins CI/CD pipeline engineering, security scan integration, and pipeline automation. My journey in technology is fueled by a commitment to building reliable, automated delivery systems and a desire to expand my knowledge in cloud infrastructure and container orchestration. 🌟
 I encourage you to explore my work to discover the pipelines and projects I've built! 💡
-![Desk Setup Animation](https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif)
+<img src="https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif" width="300">
 In my free time, I enjoy learning about new tech trends and experimenting with CI/CD and automation projects. I value teamwork and actively seek opportunities to connect with like-minded individuals in the tech community.
 📫 **Let's connect:**  
 - **Email:** [vislavathpavani5123@gmail.com](mailto:vislavathpavani5123@gmail.com)  
