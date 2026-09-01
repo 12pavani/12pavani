@@ -1,4 +1,4 @@
-<img width="720" height="1065" alt="image" src="https://github.com/user-attachments/assets/4bff4fbd-ad1b-449e-8c85-134a77b15b19" /># 🌟 Meet Pavani
+# 🌟 Meet Pavani
 
 Hello, I'm Vislavath Pavani! 👋
 
